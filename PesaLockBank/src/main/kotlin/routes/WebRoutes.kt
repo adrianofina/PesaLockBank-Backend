@@ -2,6 +2,7 @@ package routes
 
 import io.ktor.server.application.*
 import io.ktor.server.html.*
+import io.ktor.server.response.respondRedirect
 import io.ktor.server.routing.*
 import io.ktor.server.sessions.*
 import kotlinx.html.*

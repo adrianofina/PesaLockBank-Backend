@@ -9,7 +9,7 @@ import models.UserSession
 import routes.*
 
 fun main() {
-    embeddedServer(Netty, port = 8080, host = "0.0.0.0") {
+    embeddedServer(Netty, port = 8081, host = "0.0.0.0") {
         configureRouting()
         configureSessions()
     }.start(wait = true)
