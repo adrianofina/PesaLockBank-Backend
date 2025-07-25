@@ -13,7 +13,7 @@ import java.sql.DriverManager
 fun Application.configureRouting() {
     routing {
         get("/") {
-            call.respondText("Hello World!")
+            call.respondText("I am new at Ktor")
         }
     }
 }
