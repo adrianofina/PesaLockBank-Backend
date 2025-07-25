@@ -1,12 +1,55 @@
 # Gradle build files
-/build/
+.gradle/
+build/
+out/
+bin/
 *.gradle
 *.gradle.kts
 
-# IntelliJ IDEA project files
+# IntelliJ IDEA files
+.idea/
 *.iml
 *.ipr
 *.iws
 
-# Logs
-/logs/
+# Ktor generated files
+.ktor/
+
+# Log files
+logs/
+*.log
+
+# Environment files
+.env
+*.env
+
+# Build output
+dist/
+
+# Generated files
+/generated/
+
+# Dependency directories
+libs/
+
+# Cache directories
+.cache/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+local.properties
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Application specific ignores
+/config/
+*.keystore
+*.truststore
+
+# Kotlin specific
+*.kotlin_module
