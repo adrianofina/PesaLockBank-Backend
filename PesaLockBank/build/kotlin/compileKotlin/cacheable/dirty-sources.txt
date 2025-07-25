@@ -1,0 +1,10 @@
+G:\Kotlin101\Ktor101\src\main\kotlin\services\BankingService.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\routes\BankingRoutes.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\CitySchema.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\Application.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\routes\AuthRoutes.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\Routing.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\routes\WebRoutes.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\Serialization.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\Databases.kt
+G:\Kotlin101\Ktor101\src\main\kotlin\models\DataModels.kt
